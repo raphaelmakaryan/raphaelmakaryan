@@ -4,8 +4,8 @@
 
 ## About me
 
-- 📚 I'm currently a student at Gobelins CCI Annecy,
-- 🎯 Goal : learn more and speak code 🚀,
+<!---- 📚 I'm currently a student at Gobelins CCI Annecy,-->
+- 🎯 Goal : learn more and speak code 🚀
 
 ## I code with
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
