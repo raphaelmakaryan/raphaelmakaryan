@@ -3,8 +3,6 @@
 <p> My name is Raphael and i'm a developer, from <b>France <img src="assets/france.png" width="17" /></b>. </p>
 
 ## About me
-
-<!---- 📚 I'm currently a student at Gobelins CCI Annecy,-->
 - 🎯 Goal : learn more and speak code 🚀
 
 ## I code with
