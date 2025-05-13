@@ -1,9 +1,5 @@
-<h1> Heyyy<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
+<img src="./assets/banner.png">
 
-<p> My name is Raphael and i'm a developer, from <b>France <img src="assets/france.png" width="17" /></b>. </p>
-
-## About me
-- 🎯 Goal : learn more and speak code 🚀
 
 ## I code with
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
